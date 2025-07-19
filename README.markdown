@@ -132,7 +132,7 @@ GROUP BY shift;
 - Some queries (e.g., maximum gender, maximum category) in the exploration section may not provide meaningful insights due to the use of `MAX()`. Consider replacing them with `GROUP BY` or other aggregations for more accurate analysis.
 - Ensure your dataset has valid data to avoid errors during query execution.
 
-**Conclusion**
+## Conclusion
 
 This Retail Sales Database Project demonstrates a comprehensive approach to managing and analyzing retail sales data using SQL. By implementing data cleaning, exploration, and targeted business analyses, the project provides valuable insights into sales trends, customer demographics, and operational performance. The queries address key business questions, such as identifying top customers, high-performing categories, and optimal sales periods, enabling data-driven decision-making. This project serves as a foundation for further enhancements, such as advanced analytics or integration with visualization tools, to support retail business strategies.
 
