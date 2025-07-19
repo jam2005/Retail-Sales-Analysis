@@ -135,5 +135,3 @@ GROUP BY shift;
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to suggest improvements or additional analyses.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
